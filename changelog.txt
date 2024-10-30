@@ -1,0 +1,73 @@
+= 2.3 =
+* Compatibility check Wordpress 6.2
+
+= 2.2 =
+* Compatibility check Wordpress 6.1.1
+
+= 2.1 =
+* Customizations to the query pretenders (PRO version).
+* Compatibility check Wordpress 6.0.2
+
+= 1.9.9 =
+
+* Add text-area to adminmenu for reminder email
+* Edit disclamer
+
+= 1.9.7 =
+
+* Gateway Fix
+* API-Bugfix
+
+= 1.9.6 =
+
+* Admin-Menü Fix
+
+= 1.9.5 =
+
+* Mahnung wurde angepasst mit der korrekten Währung basierend auf die Einstellung des Shops.
+* Bugfix
+
+= 1.9 =
+* BugFix Reminder
+
+= 1.8 =
+* BugFix
+
+= 1.7 =
+* BugFix: Bonicheck AT + CH
+* NEW: Enable "Kauf auf Rechnung" only for DE, AT and CH.
+
+= 1.6 =
+* NEW: Meine Rechung-Tab unter dem Menüpunkt "Bonitätsprüfung" hinzugefügt
+* Update: Positive Preisanpassung (Kosten pro Abfrage)
+* BugFix
+
+= 1.5 =
+* NEW: Mindest-Bestellwert für Kauf auf Rechnung
+* NEW: Maximaler-Bestellwert für Kauf auf Rechnung
+* NEW: Vereinfachung des Ablaufs für die PRO-Version
+* NEW: Vereinfachung des Ablaufs für die PRO-Version
+* NEW: Integration eines neuen Lizenzsystem
+* NEW: Menüpunkt "Bonitätsprüfung" hinzugefügt
+* NEW: Info-Tab unter dem Menüpunkt "Bonitätsprüfung" hinzugefügt
+* NEW: Log-Tab unter dem Menüpunkt "Bonitätsprüfung" hinzugefügt
+* NEW: Video/Dokumentations-Tab unter dem Menüpunkt "Bonitätsprüfung" hinzugefügt
+* NEW: Disclamer/Datenschutzerklärungs-Tab unter dem Menüpunkt "Bonitätsprüfung" hinzugefügt
+* NEW: Videotutorial / Work-Through-Video erstellt
+* FIX: Bonitätsteuerung verbessert
+
+= 1.1 =
+* NEW: Es gibt 3 neue Woo-Staten, Versendet, Rechnung (Mahnung), Rechnung (Export)
+* NEW: Bestellungen können in der Bestellübersicht per Massenbearbeitung sendung als Versendet markieren
+* NEW: Die Kunden erhalten nach festgelegter Zeit eine Mahnung / Erinnerung, der Status ändert sich automatisch auf "Rechnung (Mahnung)"
+* NEW: Bestellungen aus "Rechnung (Mahnung)", verändern ihren Status, je nach festgelegter Zeit auf "Rechnung (Export)"
+* FIX: Pluginbeschreibung Überarbeitet
+* FIX: Donationlink eingebunden
+
+= 1.0 =
+* Initial version
+
+== Screenshots ==
+
+1. Frontend Screenshot
+2. Backend Screenshot
